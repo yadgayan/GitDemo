@@ -1,0 +1,14 @@
+10/5/2021 8:16:13 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Experts\Trade Manager.ex4
+10/5/2021 8:16:13 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Libraries\TMA_EA.dll
+10/5/2021 8:16:13 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Libraries\TMA_EA.dll.config
+10/8/2021 2:51:18 AM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Experts\Edge Trainer.ex4
+10/8/2021 2:51:18 AM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Files\Edge_Trainer.exe
+10/14/2021 9:20:33 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Experts\Trade Manager.ex4
+10/14/2021 9:20:33 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\TMA_EA.dll
+10/14/2021 9:20:33 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\TMA_EA.dll.config
+10/18/2021 12:47:31 PM - Deleting C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\TMA_EA.dll
+10/18/2021 12:47:31 PM - Deleting C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Files/TMA\TMA_EA_Trades.exe
+10/18/2021 12:47:31 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Experts\Trade Manager.ex4
+10/18/2021 12:47:31 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\TMA_EA.dll
+10/18/2021 12:47:31 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\TMA_EA.dll.config
+10/18/2021 12:47:31 PM - Deleting C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Files/TMA\tma_flow.db

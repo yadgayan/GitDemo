@@ -1,0 +1,6 @@
+10/5/2021 9:50:19 AM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Libraries\BSI.dll.config
+10/5/2021 8:18:32 PM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/2C68BEE3A904BDCEE3EEF5A5A77EC162/MQL4/Libraries\BSI.dll.config
+10/14/2021 2:57:51 AM - The process cannot access the file 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\Common\Files\BSI\DATA\BSI.db' because it is being used by another process.
+10/14/2021 2:57:53 AM - The process cannot access the file 'C:\Users\Administrator\AppData\Roaming\MetaQuotes\Terminal\Common\Files\BSI\DATA\BSI.db' because it is being used by another process.
+10/14/2021 2:58:03 AM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\BSI.dll.config
+10/14/2021 3:10:25 AM - Creating C:\Users\Administrator\AppData\Roaming\MetaQuotes/Terminal/0B7B70646D2B91B9B0C01E4856CDC2E8/MQL4/Libraries\BSI.dll.config
